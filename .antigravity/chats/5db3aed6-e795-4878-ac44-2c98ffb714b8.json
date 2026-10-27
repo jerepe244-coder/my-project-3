@@ -3,7 +3,7 @@
   "name": "Realizá un diagnóstico técnico de solo",
   "createdAt": "2026-10-27T06:38:34.597Z",
   "filename": "5db3aed6-e795-4878-ac44-2c98ffb714b8.json",
-  "geminiStarted": false,
+  "geminiStarted": true,
   "messages": [
     {
       "id": "e3617683-fe6b-494c-a98f-4b8db65e0470",
